@@ -2,5 +2,4 @@
 
 This repository consists of material for the Lab 7 exercise in ENEE467 course.
 
-<!-- TODO: Add Wiki link to Lab 7 instructions -->
-Please follow the instructions from Wiki for doing this lab exercise.
+Please follow the instructions from [Wiki](https://github.com/ENEE467/documentation/wiki/Lab-7-Instructions) for doing this lab exercise.
